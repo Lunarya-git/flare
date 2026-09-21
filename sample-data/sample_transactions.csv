@@ -1,0 +1,10 @@
+referenceId,sourceSystem,amount,currency,transactionDate,description,counterparty,status
+TXN-2001,internal_ledger,1250.00,USD,2026-09-01,Vendor payment - Horizon Media,Horizon Media,completed
+TXN-2001,bank_feed,1250.00,USD,2026-09-01,ACH debit Horizon Media,Horizon Media,completed
+TXN-2002,internal_ledger,4300.00,USD,2026-09-02,Invoice payment - Ionic Freight,Ionic Freight,completed
+TXN-2002,payment_gateway,4225.00,USD,2026-09-02,Ionic Freight settlement,Ionic Freight,completed
+TXN-2003,settlement_system,780.50,USD,2026-09-03,Settlement - Juniper Retail,Juniper Retail,completed
+TXN-2003,internal_ledger,780.50,USD,2026-09-06,Juniper Retail settlement,Juniper Retail,completed
+TXN-2004,invoice_system,2100.00,USD,2026-09-04,Invoice #8871 - Kestrel Co,Kestrel Co,completed
+TXN-2004,invoice_system,2100.00,USD,2026-09-04,Invoice #8871 - Kestrel Co (re-upload),Kestrel Co,completed
+TXN-2005,bank_feed,315.40,USD,2026-09-05,Unidentified bank charge,Unknown Merchant,completed
